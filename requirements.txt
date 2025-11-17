@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydub
+google-cloud-speech
+librosa
+numpy
